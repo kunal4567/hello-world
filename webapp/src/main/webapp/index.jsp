@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Laptop new </h1>
+   <h1> Laptop new new push </h1>
 
   
 </form>
