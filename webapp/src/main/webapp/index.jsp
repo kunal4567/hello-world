@@ -32,7 +32,11 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+<<<<<<< HEAD
    <h1> Thankyou, kunal gaikwad </h1>
+=======
+   <h1> Laptop new new push </h1>
+>>>>>>> a8799ec92691a2c4924b32d0c4917c9724a714a4
 
   
 </form>
